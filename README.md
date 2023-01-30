@@ -1,6 +1,6 @@
 # TempFly
 Usage: /fly [time] [player]
 
-#Issues?
+# Issues?
 
 Pls report the issues
