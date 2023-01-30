@@ -1,0 +1,15 @@
+name: Fly
+version: 1.0
+author: Davius
+description: Permite a los usuarios volar durante un tiempo determinado
+main: Fly\Main
+api: [4.0.0]
+commands:
+  fly:
+    description: Haz que el usuario vuele durante un tiempo determinado
+    usage: "/fly [tiempo en segundos]"
+    permission: fly.use
+permissions:
+  fly.use:
+    default: op
+    description: Permite usar el comando /fly
