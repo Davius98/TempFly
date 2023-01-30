@@ -1,2 +1,6 @@
 # TempFly
-Temporal Fly For PocketMine-MP
+Usage: /fly [time] [player]
+
+#Issues?
+
+Pls report the issues
